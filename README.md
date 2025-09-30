@@ -9,6 +9,7 @@
 - 🔙 Backend Developer working with **Laravel** in the **Payments industry**
 - 🎨 Frontend Developer building UIs with **HTML, CSS, and Vanilla JavaScript**
 - ☕ Strong background in **Java & OOP**
+- 📚 Currently learning to become a **Fullstack Developer**
 - 🎯 Goal: **Build scalable web apps that impact millions of people**
 
 ---
