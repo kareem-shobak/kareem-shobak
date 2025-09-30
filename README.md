@@ -1,45 +1,41 @@
-# 👋 Hi, I'm Karim Shobak
+# 👋 Hi everyone, I'm Karim Shobak
 
-💻 **Software Tester | Frontend Developer (Native) | Backend (Laravel)**
+💻 **Backend Developer (Laravel, Payments) | Frontend Developer (Native JS)**  
 
 ---
 
 ## 🚀 About Me
 - 🌍 Based in **Egypt**
-- 🧪 Working as a **Software Tester** (Manual, Automation, API)
-- 🎨 Building **Front-end UIs with pure HTML, CSS, and JavaScript (no libraries/frameworks)**
-- 🔙 Developing backends with **Laravel**
-- 🎯 Goal: **Grow into a Full-Stack Developer while mastering QA**
+- 🔙 Backend Developer working with **Laravel** in the **Payments industry**
+- 🎨 Frontend Developer building UIs with **HTML, CSS, and Vanilla JavaScript**
+- ☕ Strong background in **Java & OOP**
+- 🎯 Goal: **Build scalable web apps that impact millions of people**
 
 ---
 
 ## 🛠️ Skills
 
-### 🔹 Software Testing
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="selenium" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="postman" />
+### 🔹 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java" />
+</p>
 
 ### 🔹 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
-
-### 🔹 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="laravel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+</p>
 
 ### 🔹 Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress" />
-
----
-
-## 📊 GitHub Stats
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-shobak&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-shobak&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress" />
+</p>
 
 ---
 
